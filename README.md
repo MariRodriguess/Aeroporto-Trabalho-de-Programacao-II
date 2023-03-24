@@ -5,7 +5,8 @@
 
 ## Proposta:
 <p align="center">
-  <img src="../Proposta/Trabalho2_2022_lab.pdf">
+  <img height="850" width="850" src="https://github.com/MariRodriguess/Aeroporto-Trabalho-de-Programacao-II/blob/d0f7860edf1c39d0836d4db7c2483dba12278985/Proposta/img1.jpg" />
+    <img height="850" width="850" src="https://github.com/MariRodriguess/Aeroporto-Trabalho-de-Programacao-II/blob/d0f7860edf1c39d0836d4db7c2483dba12278985/Proposta/img2.jpg" />
 </p>
 
 ## Autores:
