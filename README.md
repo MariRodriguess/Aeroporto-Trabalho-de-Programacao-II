@@ -8,6 +8,7 @@
 * Mariana Rodrigues Lamounier Melo<br>
 * Lucas Lima de Oliveira<br>
 <br>
+
 ## Compilação e Execução
 Esse pequeno exemplo possui um arquivo Makefile que realiza todo o procedimento de compilação e execução.<br>Para tanto, temos as seguintes diretrizes de execução:
 
