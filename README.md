@@ -2,7 +2,11 @@
 #### - Atividade realizada no 2º período para a disciplina de Programação de Computadores II.
 #### - Curso de Engenharia da Computação - CEFET-MG, Campus V. 
 #### - Programa feito na linguagem C++. 
-#### - Instruções para a realização da atividade e resolução do problema se encontram nos dois arquivos pdf's disponibilizados dentro da pasta "Proposta". <br><br>
+
+## Proposta:
+<p align="center">
+  <img src="../Proposta/Trabalho2_2022_lab.pdf">
+</p>
 
 ## Autores:
 * Mariana Rodrigues Lamounier Melo<br>
